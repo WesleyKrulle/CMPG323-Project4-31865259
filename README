@@ -1,0 +1,6 @@
+This program is used to test results trhoughout the program that is reads from the excell sheet
+
+Login is dine by entering the data,username and password
+The beginning at the zone all the data is automatically filled in and the same is done with the categories and the devices. Everytime the create button is pressed then the program writes the data
+to the excel file as "True" in the rows and columns
+Once program is done it logs out and the process can be done again
